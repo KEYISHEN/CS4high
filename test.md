@@ -121,6 +121,23 @@ windows linux(多工).....
 防毒--window defender
 伺服器--windows server
        linux   server
+       UNIX
+       MAC OS  server
+       
+行動裝置作業系統
+       Android
+       ios
+       windows 行動裝置版
+----------------------------
+
+
+
+
+
+
+
+
+
 
 
 
